@@ -48,7 +48,7 @@ export default function Home() {
     )}
 
     {uploadData && (
-     <textarea  name="w3review" rows="4" cols="50">
+     <textarea  rows="4" cols="50">
      {uploadData}
      </textarea>
     )}
